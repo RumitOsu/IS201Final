@@ -1,0 +1,127 @@
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 18px;
+            color: #0b193f
+
+        }
+
+        .bodyhome {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 18px;
+            color: rgb(17, 83, 22);
+        }
+        .hometext {
+            color: rgb(97, 235, 127);
+            padding: 350px;
+        }
+
+        .color_lightgreen {
+            color: rgb(97, 235, 127);
+        }
+        
+
+        .contact {
+            color: rgb(30, 122, 35);
+            font-size: 10px;
+        }
+
+        .darker {
+            color: rgb(52, 8, 173);
+        }
+
+        .homebg {
+            background-image: url('../images/bggreen.jpg');
+            background-position-x: right;
+            background-repeat: no-repeat;
+            background-color: #182c24
+
+        }
+
+        .resumebg {
+            background-image: url('../images/bggrey.jpg');
+            background-position-x: right;
+            background-repeat: no-repeat;
+            background-color: #121212
+
+        }
+
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 80%;
+        }
+        
+
+        .centerimage{
+            text-align:center;
+            display:block;
+        }
+
+        .box1 {
+            border-width: 1px;
+            border-style: solid;
+            border-color: rgb(27, 28, 77);
+            padding: 10px;
+            margin: 50px;
+        }
+        .bigger {
+            font-size: 50px;
+            text-align: center;
+        }
+        .evenbigger {
+            font-size: 120px;
+            text-align: center;
+        }
+
+        li {
+            font-size: 17px;
+            font-style: italic;
+            font-weight: normal;
+        }
+
+        a {
+            color: rgb(150, 72, 20);
+            text-decoration: none;
+            font-size: 20px;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+    
+        .bold {
+            font-weight: bold;
+            font-style: normal;
+        }
+
+        .justify {
+            text-align: justify;
+
+        }
+
+        .subheader1 {
+            float: right;
+        }
+
+        .resumetext {
+            font-size: 26px;
+        }
+
+        .bullettext {
+            font-size: 30px;
+        }
+        .bullettext2 {
+            font-size: 50px;
+        }
+
+        .centertext {
+            font-size: 26px;
+            list-style-position:inside;
+        }
+
+        .bitbigger {
+            font-size: 20px;
+        }

@@ -1,0 +1,29 @@
+h2{
+    color: rgb(20, 112, 24);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.link{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.centervideo{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h3{
+    color: rgb(25, 138, 34);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: rgb(194, 240, 202);
+}
